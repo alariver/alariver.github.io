@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-16T12:08:44.609Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="WaSnJjwLtT3hNqB5W3MZ" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-20T12:56:24.415Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15" etag="PXcdm0M9ORRv2xH5vm3C" version="16.6.1" type="github">
   <diagram id="Vrcon2i8AkXRv5Q0cP_A" name="第 1 页">
-    <mxGraphModel dx="812" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,6 +13,9 @@
         <mxCell id="1BIaOTCcWGXi_crnkS1Q-3" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;opacity=40;sketch=0;" parent="1" source="1BIaOTCcWGXi_crnkS1Q-4" target="1BIaOTCcWGXi_crnkS1Q-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Odmy71p0yyeaHZQ17DhX-2" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;opacity=40;sketch=0;" edge="1" parent="1" source="1BIaOTCcWGXi_crnkS1Q-4" target="Odmy71p0yyeaHZQ17DhX-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1BIaOTCcWGXi_crnkS1Q-4" value="百年中国大学校园文学" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="310" y="40" width="170" height="60" as="geometry" />
         </mxCell>
@@ -20,19 +23,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1BIaOTCcWGXi_crnkS1Q-6" value="小说" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="190" y="150" width="100" height="50" as="geometry" />
+          <mxGeometry x="120" y="150" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1BIaOTCcWGXi_crnkS1Q-7" style="edgeStyle=none;html=1;strokeWidth=2;opacity=40;sketch=0;" parent="1" source="1BIaOTCcWGXi_crnkS1Q-8" target="1BIaOTCcWGXi_crnkS1Q-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1BIaOTCcWGXi_crnkS1Q-8" value="散文" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="345" y="150" width="100" height="50" as="geometry" />
+          <mxGeometry x="275" y="150" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1BIaOTCcWGXi_crnkS1Q-9" style="edgeStyle=none;html=1;strokeWidth=2;opacity=40;sketch=0;" parent="1" source="1BIaOTCcWGXi_crnkS1Q-10" target="1BIaOTCcWGXi_crnkS1Q-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1BIaOTCcWGXi_crnkS1Q-10" value="诗歌" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="510" y="150" width="100" height="50" as="geometry" />
+          <mxGeometry x="440" y="150" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1BIaOTCcWGXi_crnkS1Q-11" style="edgeStyle=none;html=1;strokeWidth=2;opacity=40;sketch=0;" parent="1" source="1BIaOTCcWGXi_crnkS1Q-17" target="1BIaOTCcWGXi_crnkS1Q-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -130,11 +133,17 @@
         <mxCell id="1BIaOTCcWGXi_crnkS1Q-42" style="edgeStyle=none;html=1;strokeWidth=2;opacity=40;sketch=0;" parent="1" source="1BIaOTCcWGXi_crnkS1Q-43" target="1BIaOTCcWGXi_crnkS1Q-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1BIaOTCcWGXi_crnkS1Q-43" value="艺术创新&lt;span style=&quot;white-space: pre; font-size: 17px;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 17px;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 17px;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 17px;&quot;&gt;	&lt;/span&gt;价值分析：审美、审丑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=17;" parent="1" vertex="1">
+        <mxCell id="1BIaOTCcWGXi_crnkS1Q-43" value="艺术创新&lt;span style=&quot;white-space: pre; font-size: 17px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 17px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 17px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 17px;&quot;&gt; &lt;/span&gt;价值分析：审美、审丑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="210" y="460" width="410" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1BIaOTCcWGXi_crnkS1Q-44" value="文学史地位：大学精神回归、文化价值重塑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="210" y="560" width="410" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Odmy71p0yyeaHZQ17DhX-3" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;opacity=40;sketch=0;" edge="1" parent="1" source="Odmy71p0yyeaHZQ17DhX-1" target="1BIaOTCcWGXi_crnkS1Q-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Odmy71p0yyeaHZQ17DhX-1" value="影视文学" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="590" y="150" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
